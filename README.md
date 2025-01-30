@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Batra
 - 👀 I’m interested in exlploring upcoming cloud technlogies. Specially under Data Engineering.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Advanced Data engineering/ Modern Data engineering solutions
 - 📫 Reach me @ abatra002@gmail.com or on LinkedIn => https://www.linkedin.com/in/abhishek-batra-46053a70/
 
 <!---
